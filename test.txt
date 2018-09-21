@@ -1,8 +1,0 @@
-#EXTM3U
-
-
-#
-
-
-#EXTINF:-1 tvg-id="UnivisionDeportes.us" tvg-logo="http://apk.eternaltv.net/icons/Univision_tdn1.png" group-title="Deportes",UNIVISION DEPORTES
-http://live.eternaltv.net:25461/live/Mando7o5/27jw37tWGv/26441.ts
